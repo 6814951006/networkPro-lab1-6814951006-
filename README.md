@@ -9,7 +9,7 @@
 ### 🖥️ ผลการทดสอบการส่งข้อความ
 
 #### รูปที่ 1: ภาพหน้าจอ Terminal ตอนทดสอบส่งข้อความระหว่าง Client-Server ของ TCP Echo
-(<connet tcp.png>)
+![TCP Echo Test](connect-tcp.png)
 
 #### รูปที่ 2: ภาพหน้าจอ Terminal ตอนทดสอบส่งข้อความระหว่าง Client-Server ของ UDP Echo
-(<connect udp.png>)
+![UDP Echo Test](connect-udp.png)
